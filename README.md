@@ -15,7 +15,7 @@ El desarrollo está planteado por fases de complejidad creciente:
 - **Fase 1 — Estabilidad:** mantenerse de pie de forma estable.
 - **Fase 2 — Locomoción:** caminar con equilibrio y sin caídas.
 - **Fase 3 — Recorrido:** desplazarse por un circuito sencillo y abstracto.
-- **Fase 4 — Entorno urbano:** moverse por una ciudad simulada, saltar, escalar y desarrollar inteligencia espacial, es decir, interpretar el entorno que le rodea.
+- **Fase 4 — Entorno urbano:** moverse por un camino rocoso y desigual.
 
 ---
 
@@ -128,7 +128,7 @@ python entrenar_go1.py
 - [ ] Eliminar la inestabilidad de las patas traseras.
 - [ ] Conseguir los primeros pasos con equilibrio.
 - [ ] Entrenar sobre un recorrido sencillo.
-- [ ] Construir el entorno urbano simulado.
+- [ ] Construir el entorno abstracto simulado.
 
 ---
 
